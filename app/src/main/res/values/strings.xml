@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">EventSurf</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">psw</string>
+    <string name="prompt_name">name</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">log in</string>
+    <string name="action_sign_up">.. or register</string>
+    <string name="action_sign_out">sign out</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_event_list">EventListActivity</string>
+    <string name="action_settings">Your profile</string>
+    <string name="action_home">Home</string>
+    <string name="action_profile">Profile</string>
+    <string name="event_title">Test Event</string>
+    <string name="event_date">06.06-06.10</string>
+    <string name="event_place">Place</string>
+    <string name="hello_message">Welcome back!</string>
+    <string name="participants">people</string>
+    <string name="travel">travel</string>
+    <string name="stay">stay</string>
+    <string name="action_take_photo">Take photo and upload it</string>
+    <string name="take_photo_action"> Take photo </string>
+    <string name="save_action">Save</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+
+    <string name="user_name">anna s.</string>
+    <string name="self_desc">I love to go to techno parties, and I need company! Let me know if you feel the same!</string>
+    <string name="input_message">write something...</string>
+</resources>
